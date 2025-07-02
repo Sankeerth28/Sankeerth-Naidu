@@ -97,6 +97,7 @@
 ### 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Sankeerth28/Sankeerth28/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
+
 
