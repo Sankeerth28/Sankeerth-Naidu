@@ -3,7 +3,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every midnight
+    - cron: "15 30 * * *"  # Runs every midnight
   workflow_dispatch:
 
 jobs:
