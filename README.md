@@ -31,27 +31,64 @@
 
 ---
 
-### 🧰 My Tech Toolbox
+<h2>💼 My Tech Toolbox</h2>
 
-**Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs&perline=8" />
+<!-- Programming Languages & Web -->
+<h4>👨‍💻 Languages & Web Stack</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs&perline=10" />
 </p>
 
-**AI/ML Playground**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,huggingface,sklearn,opencv&perline=8" />
+<!-- AI/ML Tools -->
+<h4>🧠 AI / ML Frameworks</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,huggingface,sklearn,opencv&perline=10" />
 </p>
 
-**GenAI Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=langchain,openai&perline=8" />
+<!-- Databases & Dev Tools -->
+<h4>🗄️ Dev Tools & Databases</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=10" />
 </p>
 
-**Database & Dev Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode,github&perline=8" />
+<!-- GenAI & Concepts -->
+<h4>🤖 GenAI Skills & Concepts</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-%23e91e63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-%234B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAI-%23009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Vector_Search-%23217e3e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_with_MongoDB-%237b1fa2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-%23f44336?style=for-the-badge&logoColor=white" />
 </p>
+
+<!-- Data Analytics -->
+<h4>📊 Data Science & Visualization</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/EDA-%230072c6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-%23f2c811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Visualization-%23ff5722?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Large_Scale_Analysis-%234caf50?style=for-the-badge&logoColor=white" />
+</p>
+
+<!-- Algorithms -->
+<h4>🧩 DSA & Algorithms</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Algorithms_on_Strings-%23e91e63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Approximation_Algorithms-%239c27b0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_DSA-%23f57c00?style=for-the-badge&logoColor=white" />
+</p>
+
+<!-- Other Soft Skills -->
+<h4>🧩 Other Skills</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Networking-%23007acc?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_AI-%239900cc?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leadership-%23ffd700?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Photography-%234caf50?style=for-the-badge&logo=canon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accountability-%23ff6f00?style=for-the-badge&logoColor=white" />
+</p>
+
 
 ---
 
@@ -59,9 +96,9 @@
 
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
-| 🧠 [**Study Coach Bot**](https://github.com/Sankeerth28/study-coach-bot) | LangChain, OpenAI, Pinecone | Intelligent Q&A with PDF retrieval using RAG |
-| 💪 **FitBuddy** | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% prediction accuracy |
-| 🎥 **SmartCam** | MediaPipe, OpenCV | Real-time attention tracker to boost student focus |
+| 🧠 [**Study Coach Bot**](https://github.com/Sankeerth28/study-coach-bot) | LangChain, OpenAI, Pinecone, MongoDB Vector Search | RAG-powered AI Q&A from PDFs |
+| 💪 **FitBuddy** | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% accuracy |
+| 🎥 **SmartCam** | MediaPipe, OpenCV | Real-time student attention tracker |
 
 ---
 
@@ -99,5 +136,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sankeerth28/Sankeerth28/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
-
-
