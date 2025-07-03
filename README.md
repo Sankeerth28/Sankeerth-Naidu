@@ -97,8 +97,8 @@
 | Project | Tech Stack | Highlights |
 |--------|------------|------------|
 | 🧠 [**Study Coach Bot**](https://github.com/Sankeerth28/study-coach-bot) | LangChain, OpenAI, Pinecone, MongoDB Vector Search | RAG-powered AI Q&A from PDFs |
-| 💪 **FitBuddy** | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% accuracy |
-| 🎥 **SmartCam** | MediaPipe, OpenCV | Real-time student attention tracker |
+| 💪 [**FitBuddy**](https://github.com/Sankeerth28/FitBuddy-ChatBot) | BERT, GPT-2, Flask | Personalized fitness chatbot with 92% accuracy |
+| 🎥 [**SmartCam**](https://github.com/Sankeerth28/Classroom-Attention-Monitering-System) | MediaPipe, OpenCV | Real-time student attention tracker |
 
 ---
 
